@@ -1,4 +1,4 @@
-remote_theme: Drassil/git-wiki-theme@master
+remote_theme: k7n4n5t3w4rt/git-wiki-theme@master
 # (string) Title of your wiki
 title: "BenkoBot Docs"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
@@ -135,6 +135,8 @@ inc_before_header:
 inc_after_header:
 inc_before_tail:
 inc_after_tail:
+inc_before_tools:
+inc_after_tools:
 
 inc_before_page_list:
 inc_after_page_list: sidebar.html
