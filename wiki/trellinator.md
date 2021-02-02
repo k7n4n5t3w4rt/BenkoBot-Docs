@@ -1,3 +1,3 @@
 # Trellinator
 
-This is a test.
+The main docs are here: http://docs.trellinator.com/
